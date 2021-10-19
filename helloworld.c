@@ -5,6 +5,6 @@
 int main(void) {
 /* This is my first program in C */
  printf("Hello World\n");
- printf("I Love C\n");
+ printf("I Love C and Me\n");
  return 0;
 }
